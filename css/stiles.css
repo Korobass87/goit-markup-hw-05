@@ -7,7 +7,7 @@
   --background-button-color: #f5f4fa;
   --background-color-footer: #2f303a;
   --selection-main-buton: #188ce8;
-  --duration: 1500ms;
+  --duration: 250ms;
   --cubic-bezier: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
