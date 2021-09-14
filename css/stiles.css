@@ -403,8 +403,7 @@ img {
   justify-content: center;
 
   display: inline-flex;
-  transition: background-color var(--duration) var(--cubic-bezier),
-    fill var(--duration) var(--cubic-bezier);
+  transition: background-color var(--duration) var(--cubic-bezier);
 }
 
 .team-social a:hover,
@@ -661,8 +660,7 @@ img {
 
 .client-icon {
   fill: #afb1b8;
-  transition: fill var(--duration) var(--cubic-bezier),
-    border-color var(--duration) var(--cubic-bezier);
+  transition: fill var(--duration) var(--cubic-bezier);
 }
 
 .clients-link:hover .client-icon,
